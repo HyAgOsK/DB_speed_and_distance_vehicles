@@ -12,8 +12,8 @@
 
 ### Vídeo de teste de placas distintas 1 a 120 km/h
 
-[![Vídeo de teste de placas distintas de 1 a 120 km/h](https://img.youtube.com/vi/ajDpHtjbycA/20.jpg)](https://www.youtube.com/watch?v=ajDpHtjbycA)
+[![Vídeo de teste de placas distintas de 1 a 120 km/h](https://img.youtube.com/vi/ajDpHtjbycA/0.jpg)](https://www.youtube.com/watch?v=ajDpHtjbycA)
 
 ### Vídeo de teste de distancias fixas, padronizadas em metros
 
-[![Vídeo de teste de placas distintas de 1 a 120 km/h](https://img.youtube.com/vi/5-r_T5SsF7M/20.jpg)](https://www.youtube.com/watch?v=5-r_T5SsF7M)
+[![Vídeo de teste de placas distintas de 1 a 120 km/h](https://img.youtube.com/vi/5-r_T5SsF7M/0.jpg)](https://www.youtube.com/watch?v=5-r_T5SsF7M)
