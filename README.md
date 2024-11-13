@@ -12,4 +12,4 @@
 
 ### Vídeo de teste de placas distintas 1 a 120 km/h
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ajDpHtjbycA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Vídeo de teste de placas distintas de 1 a 120 km/h](https://img.youtube.com/vi/ajDpHtjbycA/0.jpg)](https://www.youtube.com/watch?v=ajDpHtjbycA)
