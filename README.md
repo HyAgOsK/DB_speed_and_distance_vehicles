@@ -3,11 +3,6 @@
 - As velocidades dos carros são constantes durante todo o trajeto e em todos os vídeos.
 - As dimensçoes da rodovia são 10x100m.
 
-## 2 vídeos renderizados a 60 FPS
-
-  1. Dois carros - 100 e 80 km/h - não possuem placa
-  2. Cinco carros com velocidades diferentes - 5, 10, 50, 80, 100 km/h - não possuem placa
-  
 ## 5 vídeos renderizados a 30 FPS
 
   1. Cinco carros com velocidades diferentes - 90, 120, 50, 2 e 1 km/h - não possuem placa
@@ -15,6 +10,11 @@
   3. Dois carros com placas iguais
   4. Dois carros, um parado e outro andando para simular uma colisão
   5. Cinco carros com distâncias fixa - 24m entre a 1º fila e a 2º; 11m entre a 2° fila e a 3°
+
+## 2 vídeos renderizados a 60 FPS
+
+  1. Dois carros - 100 e 80 km/h - não possuem placa
+  2. Cinco carros com velocidades diferentes - 5, 10, 50, 80, 100 km/h - não possuem placa
 
 ## Exemplos dos videos gerados
 ### Vídeo de teste de placas distintas 1 a 120 km/h
